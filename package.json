@@ -1,7 +1,7 @@
 {
-    "name": "redux-personal-project",
-    "version": "1.4.0",
-    "author": "Dima Vakatsiienko <d.vakatsiienko@lectrum.io>",
+    "name": "funbox-map",
+    "version": "1.0.0",
+    "author": "Konstantin Batyushev",
     "private": true,
     "scripts": {
         "start": "nodemon",
